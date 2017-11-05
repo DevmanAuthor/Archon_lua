@@ -1,0 +1,13 @@
+
+
+Project notes:
+
+
+Day 1:
+-Make rectangular boundaries for Arena [Completed/ Not fully]
+-Find ways to makes CELLS out of the CELLs instead of just drawing it [Not fully completed]
+
+
+Day 2:
+
+Seperate Arena into different FIELD, and TILE datas
